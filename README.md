@@ -46,12 +46,14 @@ In the workbook, blue cells are inputs, black cells are formulas, and green cell
 
 ## 🏆 Headline findings
 
-- 🏦 **Both companies are cash-rich and capital-light.** In FY2026, cash and liquid investments were 38.9% of assets at Wipro and 28.8% at HCLTech (company-defined gross cash). CapEx was 1.7% of revenue at Wipro and 1.1% at HCLTech.
+- 🏦 **Both companies are cash-rich and capital-light.** In FY2026, cash and liquid investments were 38.9% of assets at Wipro and 28.8% at HCLTech. Wipro's figure is a comparable measure (cash, current investments and non-current deposits); HCLTech's is the company-defined gross cash. CapEx was 1.7% of revenue at Wipro and 1.1% at HCLTech.
 - 🏗️ **Neither company froze investment.** Both cut CapEx sharply in FY2024 and rebuilt it by FY2026.
 - 📈 **Growth is where they differ most.** Revenue grew about 8.7% a year at HCLTech against about 0.8% a year at Wipro between FY2023 and FY2026.
-- 💼 **Wipro's profit leans more on treasury-type income.** Other income was 27.5% of net profit in FY2026, against 9.2% at HCLTech.
+- 💸 **Wipro's earnings lean more on interest income.** Interest income was 21.4% of net profit at Wipro in FY2026, against 9.3% at HCLTech (IFRS basis).
+- 💼 **Other income shows the same pattern.** It was 27.5% of net profit at Wipro, against 9.2% at HCLTech, but it also contains non-interest items.
 - 🤝 **Shareholder returns differ in form.** HCLTech returned 89.7% of cumulative profit, mostly as dividends. Wipro returned 73.8% through dividends and a buyback.
 - 💵 **Net cash** was ₹38,394 crore at Wipro and ₹33,288 crore at HCLTech in FY2026.
+- 🎯 **Overall conclusion:** neither company fits a simple "cash preserver" or "expander" label. Wipro follows a mixed capital allocation strategy on a liquidity-heavy balance sheet. HCLTech follows a balanced strategy weighted towards distributions.
 
 The report weighs liquidity, profitability, growth, investment efficiency and shareholder returns together before reaching a balanced conclusion.
 
@@ -64,7 +66,7 @@ The report weighs liquidity, profitability, growth, investment efficiency and sh
 
 ## ⚠️ Limitations
 
-- HCLTech's ₹ note-level interest income was not extracted. Where available, HCLTech's interest income is taken from its IFRS statements in US dollars.
+- HCLTech's ₹ note-level interest income is not available. Where available, HCLTech's interest income is taken from its IFRS statements in US dollars.
 - IFRS (Wipro) and Ind AS (HCLTech) differences are not reconciled.
 - CapEx and gross-cash definitions differ slightly between the two companies.
 - HCLTech's FY2025 other income and its FY2023–24 net profit basis are flagged for further verification.
